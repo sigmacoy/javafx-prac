@@ -1,0 +1,21 @@
+/*
+    .
+    is for class styling
+*/
+
+.root {
+/* or 000000 */
+    -fx-background-color: black;
+}
+
+.label {
+    -fx-font-size: 16;
+    -fx-font-family: "Verdana";
+    -fx-text-fill: white;
+    -fx-alignment: center;
+
+}
+
+#title_id {
+    -fx-font-size: 50;
+}
