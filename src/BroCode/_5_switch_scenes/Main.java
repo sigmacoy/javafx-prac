@@ -1,4 +1,4 @@
-package BroCode.switch_scenes;
+package BroCode._5_switch_scenes;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

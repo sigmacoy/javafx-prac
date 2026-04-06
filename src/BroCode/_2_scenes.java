@@ -30,7 +30,7 @@ Scene-Graph level 1 (at the front)
 
  */
 
-public class _2 extends Application {
+public class _2_scenes extends Application {
     public static void main(String[] args) {
         launch(args);
     }

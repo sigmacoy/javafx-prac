@@ -1,4 +1,4 @@
-package BroCode.event_handling_sceneBuilder;
+package BroCode._3_event_handling_sceneBuilder;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

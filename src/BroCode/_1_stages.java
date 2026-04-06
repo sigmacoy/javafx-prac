@@ -14,7 +14,7 @@ BASICS of STAGES
 
  */
 
-public class _1 extends Application {
+public class _1_stages extends Application {
     public static void main(String[] args) {
         launch(args);
     }
