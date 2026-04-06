@@ -1,4 +1,4 @@
-package BroCode._14_ChoiceBox;
+package BroCode._14_ChoiceBox_15_Slider;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
