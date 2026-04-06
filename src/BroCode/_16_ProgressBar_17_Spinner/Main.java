@@ -1,4 +1,4 @@
-package BroCode._16_ProgressBar;
+package BroCode._16_ProgressBar_17_Spinner;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
